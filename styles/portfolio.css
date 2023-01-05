@@ -103,11 +103,11 @@ section {
     margin-bottom: 30px;
 }
 
-.list-title {
+/* .list-title {
     list-style: none;
     display: flex;
     text-align: center;
-}
+} */
 
 .about-info-container {
     display: flex;
